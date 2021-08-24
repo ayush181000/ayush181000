@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ayush181000
+- 🏫 I'm currently studying in Maharaja Agrasen Institute of Technology
+- 👀 I’m interested in JavaScript and React
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me Gmail - ayush181000@gmail.co
