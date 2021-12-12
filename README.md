@@ -82,7 +82,7 @@
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
 <a href = https://github.com/ayush181000 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
-<a href = linkedin.com/in/ayush-garg-8540b7178 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
+<a href = https://www.linkedin.com/in/ayush-garg-8540b7178/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
 <a href = https://twitter.com/ayushgarg1810 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
 <a href = https://www.instagram.com/ayush1500/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 <br>
