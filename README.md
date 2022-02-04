@@ -71,7 +71,7 @@
 
 
 <strong><h3> 🌟 Top Lanaguages </h3></strong>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <strong><h3> 🌟 GitHub Stats </h3></strong>
