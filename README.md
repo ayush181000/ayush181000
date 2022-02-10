@@ -6,7 +6,7 @@
 
 <li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I'm currently studying in Maharaja Agrasen Institute of Technology</li>
 
-<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m interested in Machine Learning and Artificial Intelligence</li>
+<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m interested in Blockchain Development</li>
 
 <li><img src="https://c.tenor.com/JRdqWtEpnLgAAAAj/cute-dragon-work.gif" height=35 width=35> I’m currently learning JAVA</li>
 
