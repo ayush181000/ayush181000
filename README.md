@@ -46,8 +46,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="15%" align="center">
-        <span><strong>ExpressJS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+        <span><strong>NodeJS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="15%" align="center">
         <span><strong>Git</strong></span><br><br><br>
