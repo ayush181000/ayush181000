@@ -71,7 +71,7 @@
 
 
 <strong><h3> 🌟 Top Languages </h3></strong>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=5)
 
 
 <strong><h3> 🌟 GitHub Stats </h3></strong>
