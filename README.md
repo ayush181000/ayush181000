@@ -86,5 +86,4 @@
 <a href = https://twitter.com/ayushgarg1810 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
 <a href = https://www.instagram.com/ayush1500/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 <br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ayush181000.ayush181000" alt="visitor badge"/>
 </p>
