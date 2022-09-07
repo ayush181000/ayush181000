@@ -39,6 +39,10 @@
         <span><strong>Redux</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
+      <td width="15%" align="center">
+        <span><strong>GraphQL</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="15%" align="center">
@@ -64,6 +68,10 @@
       <td width="15%" align="center">
         <span><strong>Python</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="15%" align="center">
+        <span><strong>Socket.IO</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/socket.io.svg">
       </td>
     </tr>
   </tbody>
