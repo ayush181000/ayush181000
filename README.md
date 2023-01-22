@@ -6,9 +6,9 @@
 
 <li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I'm currently studying in Maharaja Agrasen Institute of Technology</li>
 
-<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m interested in Blockchain Development</li>
+<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m interested in Backend Development</li>
 
-<li><img src="https://c.tenor.com/JRdqWtEpnLgAAAAj/cute-dragon-work.gif" height=35 width=35> I’m currently learning JAVA</li>
+<li><img src="https://c.tenor.com/JRdqWtEpnLgAAAAj/cute-dragon-work.gif" height=35 width=35> I’m currently learning Django</li>
 
 
 <strong><h3> 🛠 & 💻 Tools & Technologies</h3></strong>
@@ -78,20 +78,20 @@
 </table>
 
 
-<strong><h3> 🌟 Top Languages </h3></strong>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=5)
 
-
-<strong><h3> 🌟 GitHub Stats </h3></strong>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&langs_count=10&hide=procfile,xslt,pug,scss">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush181000&layout=compact&theme=tokyonight&count_private=true&langs_count=10&hide=procfile,xslt,pug,scss" alt="Top Languages" />
+</a>
+&nbsp&nbsp&nbsp&nbsp
 <a href="https://github-readme-stats.vercel.app/api?username=ayush181000&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush181000&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
-<a href = https://github.com/ayush181000 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
-<a href = https://www.linkedin.com/in/ayush-garg-8540b7178/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-<a href = https://twitter.com/ayushgarg1810 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
-<a href = https://www.instagram.com/ayush1500/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
+<a href = https://github.com/ayush181000 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
+<a href = https://www.linkedin.com/in/ayush-garg-8540b7178/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
+<a href = https://twitter.com/ayushgarg1810 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
+<a href = https://www.instagram.com/ayush1500/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 <br>
 </p>
