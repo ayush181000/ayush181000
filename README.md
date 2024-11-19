@@ -6,7 +6,7 @@
 
 <li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> Full Stack Typescript and Javascript developer </li>
 
-<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35>Building dyor.ag </li>
+<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> Building dyor.ag </li>
 
 <strong><h3> 🛠 & 💻 Tools & Technologies</h3></strong>
 <table>
