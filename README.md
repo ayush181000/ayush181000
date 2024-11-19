@@ -4,12 +4,9 @@
 
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
 
-<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I'm currently studying in Maharaja Agrasen Institute of Technology</li>
+<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> Full Stack Typescript and Javascript developer </li>
 
-<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m interested in Backend Development</li>
-
-<li><img src="https://c.tenor.com/JRdqWtEpnLgAAAAj/cute-dragon-work.gif" height=35 width=35> I’m currently learning Django</li>
-
+<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35>Building dyor.ag </li>
 
 <strong><h3> 🛠 & 💻 Tools & Technologies</h3></strong>
 <table>
